@@ -9,11 +9,12 @@
 #include "afxdialogex.h"
 
 #include <direct.h>
-
 void CCAKitViewer_v0.5Dlg :: printf()
 {
 	
 }
+
+void print abc();
 
 int gROICENTER1 = 0;
 int gROICENTER2 = 0;

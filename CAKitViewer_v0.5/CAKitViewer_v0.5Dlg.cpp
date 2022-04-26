@@ -10,6 +10,11 @@
 
 #include <direct.h>
 
+void CCAKitViewer_v0.5Dlg :: printf()
+{
+	
+}
+
 int gROICENTER1 = 0;
 int gROICENTER2 = 0;
 int gROICENTER3 = 0;
